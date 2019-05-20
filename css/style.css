@@ -2,12 +2,14 @@
 
 /* link the web font used for the level 1 heading here */
 
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Noto+Serif&display=swap');
+
 /*////////// Global Styles //////////*/
 
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Noto Serif', serif;
 }
 
 .wrapper {
@@ -15,6 +17,42 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+h1 {
+	margin: 0 0 10px;
+	font-size: 70px;
+	font-family: 'Noto Serif', serif;
+}
+
+hr {
+	color: lightgray;
+}
+
+#necklace-pic {
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightgray;
+}
+
+h1, h2 {
+	color: #85adad;
+}
+
+.text {
+	font-family: 'Crimson Text', serif;
+}
+
+.press-images img {
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightgray;
+}
+
+#footer {
+	float: right;
+	margin: 0 0 10px;
+	font-size: 10px;
 }
 
 /* Write all remaining styles here EDIT */
