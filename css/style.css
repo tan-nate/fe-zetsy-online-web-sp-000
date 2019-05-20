@@ -43,4 +43,9 @@ h1, h2 {
 	font-family: 'Crimson Text', serif;
 }
 
+.press-images {
+	border-style: solid;
+	border-color: lightgray;
+}
+
 /* Write all remaining styles here EDIT */
