@@ -43,7 +43,7 @@ h1, h2 {
 	font-family: 'Crimson Text', serif;
 }
 
-.press-images img {
+div.press-images img {
 	border-style: solid;
 	border-color: lightgray;
 }
