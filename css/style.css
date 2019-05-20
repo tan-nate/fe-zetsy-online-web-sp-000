@@ -21,7 +21,7 @@ body {
 
 #necklace-pic {
 	border: 5px;
-	border-color: gray;
+	border-color: #85adad;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h1 {
 }
 
 h1, h2 {
-	color: gray;
+	color: #85adad;
 }
 
 .text {
