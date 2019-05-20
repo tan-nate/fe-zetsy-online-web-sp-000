@@ -2,14 +2,13 @@
 
 /* link the web font used for the level 1 heading here */
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Noto+Serif&display=swap');
 
 /*////////// Global Styles //////////*/
 
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Noto Serif', serif;
 }
 
 .wrapper {
@@ -22,6 +21,11 @@ body {
 h1 {
 	margin: 20px 0;
 	font-size: 70px;
+	font-family: 'Noto Serif', serif;
+}
+
+.text {
+	font-family: 'Crimson Text', serif;
 }
 
 /* Write all remaining styles here EDIT */
